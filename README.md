@@ -1,11 +1,11 @@
 
 <h1 align="center" > <img width="100" src ="https://res.cloudinary.com/dc6fwvmjh/image/upload/v1725916288/t1b6ers0tsx601nfjjhy.png"/> Hi 👋, I'm KOSIREDDY RAKESH</h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kosireddyrakesh&label=Profile%20views&color=0e75b6&style=flat" alt="kosireddyrakesh" /> </p>
 
-- 🌱 I’m currently learning **React,Golang,.Net**
+- 🌱 I’m currently learning **Node.js,.Net**
 
 - 🤝 I’m looking for help with **firebase,.Net**
 
